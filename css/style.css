@@ -39,10 +39,17 @@
     border-radius: 15px;
 }
 
-
-.we9 {
-    background-color:  green;
+/* ABOUT */
+.bgr-color-about {
+    background-color:  #1abc9c;
+    padding: 70px 0;
 }
+
+
+
+
+
+
 
 .we10 {
     background-color:  wheat;
