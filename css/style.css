@@ -1,18 +1,25 @@
+/* HEADER */
 .bg-header {
     background-color:  #2c3e50;
     height: 100px;
 }
 
-.we4 {
-    background-color:  brown;
+
+
+/* JUMBO */
+.img-avatar img {
+    max-width: 280px;
 }
 
-.we5 {
-    background-color:  chartreuse;
+.bgr-color-jumbo {
+    background-color:  #1abc9c;
 }
 
-.we6 {
-    background-color:  palevioletred;
+.white-line {
+    width: 20%;
+    height: 4px;
+    background-color: white;
+    border-radius: 5px;
 }
 
 .we7 {
