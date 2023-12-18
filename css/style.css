@@ -1,35 +1,35 @@
 .we {
-    border: 1.5px dashed fuchsia;
+    background-color:  fuchsia;
 }
 
 .we2 {
-    border: 1.5px dashed red;
+    background-color:  red;
 }
 
 .we3 {
-    border: 1.5px dashed blue;
+    background-color:  rgb(191, 191, 201);
 }
 
 .we4 {
-    border: 1.5px dashed brown;
+    background-color:  brown;
 }
 
 .we5 {
-    border: 1.5px dashed chartreuse;
+    background-color:  chartreuse;
 }
 
 .we6 {
-    border: 1.5px dashed palevioletred;
+    background-color:  palevioletred;
 }
 
 .we7 {
-    border: 1.5px dashed navy;
+    background-color:  rgb(230, 230, 240);
 }
 
 .we8 {
-    border: 1.5px dashed red;
+    background-color:  red;
 }
 
 .we9 {
-    border: 1.5px dashed green;
+    background-color:  green;
 }
