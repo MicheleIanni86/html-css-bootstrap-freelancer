@@ -46,6 +46,12 @@
 }
 
 
+/* CONTACT ME */
+.text_area {
+    border: none;
+    border-bottom: 1px solid #e9ecef;
+}
+
 
 /* INFO */
 .bgr-color-info {
